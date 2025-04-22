@@ -57,8 +57,9 @@ MHealthWorkplace-Tech/
 │
 ├── notebooks/
 |   └── 01_Explore.ipynb
-│   └── 01_CleanSQL.ipynb
-│   └── 02_Machine1.ipynb
+|   └── 02_Work.ipynb
+│   └── 03_CleanSQL.ipynb
+│   └── 04_Machine1.ipynb
 │
 ├── outputs/
 │   └── visuals/
