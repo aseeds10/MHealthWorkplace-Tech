@@ -56,13 +56,14 @@ MHealthWorkplace-Tech/
 |   └── TipsForML-KaggleTechSurvey.txt
 │
 ├── notebooks/
-|   └── 01_Explore.ipynb
-|   └── 02_Work.ipynb
-│   └── 03_CleanSQL.ipynb
+|   └── 01_RawExplore.ipynb
+|   └── 02_CleanSQL.ipynb
+│   └── 03_VizWork.ipynb
 │   └── 04_Machine1.ipynb
 │
 ├── outputs/
 │   └── visuals/
+│   └── MLmodel/
 │
 ├── README.md
 └── requirements.txt
