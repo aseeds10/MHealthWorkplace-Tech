@@ -1,4 +1,4 @@
-# Title Opt 1: Predicting Mental Health Treatment-Seeking in the Tech Workplace
+# Predicting Mental Health Treatment-Seeking in the Tech Workplace
 <br>This project uses the 2014 Mental Health in Tech Survey to explore how workplace factors impact mental health outcomes among tech workers. It aims to provide insight into how company size, supportiveness, remote work, perceived stigma, and more relate to mental health treatment-seeking behaviors, workplace interference, and fear of consequences.
 <br>
 <br>Ultimately, this project seeks to model predictors of mental health outcomes using a combination of workplace culture, demographic factors, and individual perceptions.
@@ -51,8 +51,8 @@ The dataset contains 1,259 responses from tech workers worldwide. Data was sourc
 MHealthWorkplace-Tech/
 │
 ├── Resources/
-│   └── mental_health_survey.csv
-|   └── TipsForML-KaggleTechSurvey.txt
+│   └── 01_mental_health_survey.csv
+|   └── 02_KaggleTechSurveyInfo.txt
 │
 ├── notebooks/
 |   └── 01_RawExplore.ipynb
@@ -63,6 +63,7 @@ MHealthWorkplace-Tech/
 ├── outputs/
 │   └── visuals/
 │   └── MLmodel/
+│   └── Findings.txt
 │
 ├── README.md
 └── requirements.txt
