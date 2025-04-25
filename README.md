@@ -78,7 +78,7 @@ MHealthWorkplace-Tech/
 - Select other features as target features; look at prediction accuracy with new feature and explore whether this other target feature correlates more to mental health factors of interest for tech workers.
 
 ## Author
-Project by Arielmy M., created as part of a short-term portfolio mini-project under the guidance of mentor Seif D. :)
+Project by Arielmy M., created as part of a short-term portfolio mini-project.
 
 ### Acknowledgments
 I received assistance and/or gathered information from the following sources:
